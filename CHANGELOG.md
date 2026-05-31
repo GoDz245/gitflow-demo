@@ -1,0 +1,10 @@
+# Changelog
+
+## [1.0.0] - 2026-05-31
+
+### Added
+- Login form
+- Page header
+
+### Fixed
+- Layout improvements for release
